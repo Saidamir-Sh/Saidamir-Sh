@@ -1,4 +1,4 @@
-<img src='/coder_gif.gif' alt='Coder Boy' align='center' width='100%' height='220px'/>
+<img src='/coding.gif' alt='Coder Boy' align='center' width='100%' height='300px'/>
 
 <div align='center'>
   
